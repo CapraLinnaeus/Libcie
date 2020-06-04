@@ -1,0 +1,41 @@
+#map{
+    height: 100%;
+    width: 60%;
+}
+
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#greenStatus{
+    font-family: "Arial Black";
+    color: green;
+}
+
+#redStatus{
+    color: red;
+}
+
+#greyStatus{
+    color: grey;
+}
+
+#form-container{
+    border: #d9d9d9 3px solid;
+    border-radius: 6px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #ebf3ff;
+}
+
+#lastname{
+    margin-top: 5px;
+}
+
+#button{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
